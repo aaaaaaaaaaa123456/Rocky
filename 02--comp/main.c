@@ -359,14 +359,14 @@ int main(void)
 //		timer0_init();
 //		timer1_init();
 //		
-//		nrf_gpio_cfg_output(12);
-//		nrf_gpio_pin_set(12);	
+//		nrf_gpio_cfg_output(15);
+//		nrf_gpio_pin_set(15);	
 			
-//		nrf_gpio_cfg_output(13);
-//		nrf_gpio_pin_clear(13);
+//		nrf_gpio_cfg_output(16);
+//		nrf_gpio_pin_clear(16);
 //			
-//		nrf_gpio_cfg_output(14);
-//		nrf_gpio_pin_set(14);
+//		nrf_gpio_cfg_output(17);
+//		nrf_gpio_pin_set(17);
 		
     while (true)
     {				
