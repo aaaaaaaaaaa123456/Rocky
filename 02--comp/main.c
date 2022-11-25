@@ -362,8 +362,8 @@ int main(void)
 //		nrf_gpio_cfg_output(19);
 //		nrf_gpio_pin_set(19);	
 			
-//		nrf_gpio_cfg_output(16);
-//		nrf_gpio_pin_clear(16);
+//		nrf_gpio_cfg_output(2);
+//		nrf_gpio_pin_clear(2);
 //			
 //		nrf_gpio_cfg_output(17);
 //		nrf_gpio_pin_set(17);
